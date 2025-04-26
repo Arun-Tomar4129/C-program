@@ -1,19 +1,13 @@
-📦 C++-DSA
- ┣ 📂 Basics
- ┃ ┣ 📜 hello_world.cpp
- ┃ ┣ 📜 loops.cpp
- ┃ ┣ 📜 functions.cpp
- ┣ 📂 Sorting
- ┃ ┣ 📜 bubble_sort.cpp
- ┃ ┣ 📜 quick_sort.cpp
- ┃ ┣ 📜 merge_sort.cpp
- ┣ 📂 Searching
- ┃ ┣ 📜 linear_search.cpp
- ┃ ┣ 📜 binary_search.cpp
- ┣ 📂 Data Structures
- ┃ ┣ 📜 linked_list.cpp
- ┃ ┣ 📜 binary_tree.cpp
- ┣ 📂 Dynamic Programming
- ┃ ┣ 📜 fibonacci_dp.cpp
- ┃ ┣ 📜 knapsack_problem.cpp
- ┗ 📜 README.md
+# 🚀 C++ Programs & DSA Repository
+
+## 📌 About This Repository
+Welcome to the **C++ Programs & Data Structures and Algorithms (DSA)** repository! This collection includes fundamental C++ programs along with optimized solutions for **DSA** concepts such as sorting, searching, recursion, and dynamic programming.
+
+## 🛠️ Features
+- ✅ **C++ basics** (functions, loops, pointers, classes)
+- ✅ **DSA implementations** (linked lists, trees, graphs, heaps)
+- ✅ **Optimized algorithms** (sorting, searching, dynamic programming)
+- ✅ **Competitive programming problems**
+- ✅ Well-commented code for better understanding 📝
+
+## 📂 Folder Structure
