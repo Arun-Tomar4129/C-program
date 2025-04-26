@@ -6,7 +6,6 @@ int main() {
     
     cout << "Enter the number of elements: ";
     cin >> n;
-
     int arr[n]; // Declare array
 
     cout << "Enter elements of the array: ";
@@ -36,6 +35,5 @@ int main() {
     }
     
     cout << endl;
-    
     return 0;
 }
